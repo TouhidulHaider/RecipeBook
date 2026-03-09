@@ -2,6 +2,8 @@
 
 A modern, responsive React application for discovering and exploring recipes from around the world. Browse recipes by cuisine, category, or search for your favorite dishes using real-time data from **TheMealDB API**.
 
+Check out the deployed application here: [RecipeBook live](https://recipe-book-kohl-gamma.vercel.app/)
+
 ## Features
 - 🔍 **Search Recipes** - Find recipes by name instantly  
 - 🍽️ **Filter by Category** - Quick access to popular ingredients (Chicken, Seafood, Vegetarian, Pasta, and more)  
